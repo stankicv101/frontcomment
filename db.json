@@ -1,0 +1,34 @@
+{
+    "vozila":[
+        {
+            "id":1,
+            "marka":"vw",
+            "model":"golf",
+            "registracijski_broj":"123-A-321",
+            "datum_isteka_registracije":"12.12.2024",
+            "godina_proizvodnje": 2012,
+            "tip_goriva": "dizel",
+            "status": "izdato"
+        },
+        {
+            "id":2,
+            "marka":"audi",
+            "model":"a4",
+            "registracijski_broj":"111-A-241",
+            "datum_isteka_registracije":"24.03.2025",
+            "godina_proizvodnje": 2014,
+            "tip goriva": "dizel",
+            "status": "izdato"
+        },
+        {
+            "id":3,
+            "marka":"renault",
+            "model":"clio",
+            "registracijski_broj":"166-A-343",
+            "datum_isteka_registracije":"17.07.2024",
+            "godina_proizvodnje": 2015,
+            "tip goriva": "benzin",
+            "status": "izdato"
+        }
+    ]
+}
